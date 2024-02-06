@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randy López</h1>
 <h3 align="center">A passionate Software Developer from Guatemala</h3>
 
-- 🔭 I’m currently working on [MaxiCompra]
+- 🔭 I’m currently working on MaxiCompra
 
 - 👨‍💻 All of my projects are available at [https://www.ralfxdev-portfolio.tk/](https://www.ralfxdev.site/)
 
