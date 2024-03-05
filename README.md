@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on MaxiCompra
 
-- 👨‍💻 All of my projects are available at [https://www.ralfxdev-portfolio.tk/](https://www.ralfxdev.site/)
+- 👨‍💻 All of my projects are available at [https://www.ralfxdev.site/](https://www.ralfxdev.site/)
 
 - 📝 I regularly write articles on [https://ralfxdev.medium.com/](https://ralfxdev.medium.com/)
 
